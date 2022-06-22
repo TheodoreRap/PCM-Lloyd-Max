@@ -1,4 +1,4 @@
-# PCM-Lloyd-Max
+# PCM Lloyd-Max
 
 Lloyd-Max algorithm allows the design of an optimal quantum for any number of levels.
 
